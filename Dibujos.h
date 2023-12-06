@@ -4,7 +4,7 @@
  * Autores: Oscar David Poblador Parra      20211005116
  *          Juan David Bello Rodriguez      20211005028 
  *          Manuel Alejandro Guio Cardona   20211005061
- * Intritución: Universidad Distrital Francisco José de Caldas
+ * Institución: Universidad Distrital Francisco José de Caldas
  */
 
 #ifndef DIBUJOS_H
