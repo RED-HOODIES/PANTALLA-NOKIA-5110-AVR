@@ -1,8 +1,10 @@
-/* 
- * File:   Dibujos.h
- * Author: magui
- *
- * Created on 2 de diciembre de 2023, 03:53 PM
+/*
+ * File:   main.c (PERSONALIZACIÓN CARACTER)
+ * 
+ * Autores: Oscar David Poblador Parra      20211005116
+ *          Juan David Bello Rodriguez      20211005028 
+ *          Manuel Alejandro Guio Cardona   20211005061
+ * Intritución: Universidad Distrital Francisco José de Caldas
  */
 
 #ifndef DIBUJOS_H
